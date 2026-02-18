@@ -8,7 +8,7 @@ let $number;
 // let !age;
 // let @value;
 
-// camelCaseExamples   In cameCase it teaches us how to properly name the variable.
+// camelCaseExamples   In camelCase it teaches us how to properly name the variable.
 let firstClassStudents;
 let sanothimiCampus;
 let namasteNepalCleaning;
