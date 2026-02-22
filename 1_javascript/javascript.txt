@@ -22,3 +22,6 @@ Strings
 
 String Concatenation
 -In JavaScript, String Concatenation is the process of combing two or more texts together to form a single text,while coding text is essential part of coding so we need to combine texts and for that we need String Concatenation.
+
+Console.log()
+- IN javascript, console.log is used to display messages or give direct output information to the brower's console.
